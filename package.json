@@ -1,0 +1,25 @@
+{
+  "name": "inkfish",
+  "version": "1.0.0",
+  "description": "墨鱼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Hungry/InkFish.git"
+  },
+  "keywords": [
+    "墨鱼、共享"
+  ],
+  "author": "cj_songqing@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Hungry/InkFish/issues"
+  },
+  "homepage": "https://github.com/C-Hungry/InkFish#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
