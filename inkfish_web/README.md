@@ -1,4 +1,9 @@
-# iView-project
+# InkFish
+
+##Description
+
+The inkfish is one of the most intelligent animal. 
+InkFish is concentrated on one thing only -- how to .
 
 This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
 

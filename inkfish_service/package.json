@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/C-Hungry/InkFish#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
   }
 }
